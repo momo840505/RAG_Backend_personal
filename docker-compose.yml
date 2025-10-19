@@ -1,0 +1,29 @@
+services:
+  pgvector-db:
+    image: pgvector/pgvector:0.8.0-pg17-bookworm
+    container_name: pgvector-db
+    environment:
+      POSTGRES_DB: vector_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: team_7
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+#       - "/d/0.CITS5553/Team7_RAG_Bot/RAG_Data_Docs/Data:/data"
+      - "${DATA_DIR}:/data"
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: unless-stopped
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: team_7
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
+volumes:
+  pgvector_data:

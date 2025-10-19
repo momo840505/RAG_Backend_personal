@@ -1,0 +1,151 @@
+id,query,expected_urlID,is_real,information_level
+1,"Show me stats on alcohol-only admissions, 5-year average, for males 15–19 in LGA 2012","cm1edwkpc9rsokh344qxhubiy",TRUE,3
+2,"What’s the self-harm attendance 3-year moving average for all 15–19 year olds in SA4, 2012?","cm1h9d6yu9qq6kh34onv0ie0i",TRUE,3
+3,"Do you have Rotavirus admissions for kids under 5 in LGA 2020?","cm0ul4vd9j01qkh34140zt24k",TRUE,3
+4,"Number of 6-year-old children and young people in the State for 2016","cm18ux4qpu86skh34pwgt6a65",TRUE,3
+5,"Cancer admissions for 0–24 year olds in LGA during 2008","cm0agxgo6bseckh4kd5msn0lw",TRUE,3
+6,"Can I see the 5-year average of drug + alcohol cases for females 20–24 in SA4 2010?","cm1ef5w01f1v0kh34ivzdl7ew",TRUE,3
+7,"How many diabetes-related admissions for ages 0–24 in State 2016?","cm0c7ie99aywukh4kqytpitgp",TRUE,3
+8,"Self-harm attendance, 5-year moving average, males aged 15–19, SA4 2013","cm0boobfaz41skh4kfw3g3doi",TRUE,3
+9,"Suicide attempts or risks, 3-year moving avg, for 10–24 year olds in SA2 2015","cm0aguu86at56kh4kxrgu6pvh",TRUE,3
+10,"Rate per 1000: females 10–14 affected by both drugs & alcohol in SA3, 2010","cm1eeg7efcf1kkh34vul9gfwa",TRUE,3
+11,"Cancer admissions ages 0–24","cm0ahme1eetuekh4ksyuglin1",TRUE,1
+12,"Alcohol/drug rates among teenagers, SA3 2017","cm1egyeuphqbekh34cxpny89a",TRUE,2
+13,"Stats for 10–24 year old females, SA3 region, 2007","cm163pjsrus0skh34n7ke9fm4",TRUE,1
+14,"Drug and alcohol together, females 15–19, SA3","cm1eeg9uycf2qkh34hb6mdt3u",TRUE,2
+15,"Hospital visits due to diabetes, State 2019","cm0c7ietlayxmkh4k6vqpysh4",TRUE,2
+16,"% of North-East Asia kids, ages 5–9","cljwpqzbyaudmmj08n5aox5ma",TRUE,3
+17,"Southwest & Central Asian languages spoken by small children","cljicb8il01thme08qed4ztzf",TRUE,3
+18,"Meth-related attendance stats for males aged 20–24 in 2008","cm0aelpek4l9qkh4k5ht94jel",TRUE,2
+19,"Flu hospitalisations in under-25s, LGA level","cm0ou82k3tnjqkh342jc33k2v",TRUE,2
+20,"ED presentations, moving average, teenagers in SA3","cm1hcp402motukh34vhssthrn",TRUE,3
+21,"WA hospital admission rates, ages 5–9, LGA 2014","cm7mxwony73wtkh74ftp39tb8",TRUE,1
+22,"Admissions for chronic physical illness, ages 0–24, SA2 in 2012","cm0vw04rgw68ikh34ykq2cbzu",TRUE,1
+23,"Male children 10–17 in out of home care, State 2022","cm0dfhtlkhm5wkh4kqxtkxkro",TRUE,1
+24,"Care and protection orders, SA3, 2019","cm0dfqtt0ibsikh4ka25e80h9",TRUE,2
+25,"Hospital admissions WA, ages 10–14, LGA","cm7if0756jflzkh3wedou0s18",TRUE,2
+26,"Young people 18–24 managed in the community","cm0bpswvg39pqkh4k1jaizx8a",TRUE,2
+27,"Drug and/or alcohol impacts on teenagers, SA4","cm04ob0ofw80ekh4kupsaoilu",TRUE,2
+28,"Supplementary codes percentages for LGA 2006","cljmeqbjl6gfbkz08uwb9k3mn",TRUE,3
+29,"Unintentional injury admissions for ages 0–24, LGA 2021","cm0xj2vm5dty8kh34xys6srju",TRUE,1
+30,"Motor vehicle stealing offences, ages 10–24, State 2013","cm0u8mgqzbt9zkh34fzrn9y61",TRUE,2
+31,"Female children in out of home care, ages 10–17","cm0dfj9ljhm8lkh4ko202xcxy",TRUE,1
+32,"Self-harm attendance, females aged 10–14, State 2015","cm04u2jv0hmt2kh4kx2r9ba47",TRUE,1
+33,"Developmentally on track, 5-year-old females, LGA 2021","cloq2ywhqidp9khs8qikf1ef2",TRUE,2
+34,"Developmentally at risk, females, age 5, LGA 2021","clopvojfh3k9fkhs8tcrpy6p3",TRUE,2
+35,"Secondary Year 7–10 data, LGA 2015","cm90n3ohqo050kh700focvklt",TRUE,2
+36,"Intentional injury admissions, ages 0–24, LGA 2012","cm0w5oj7a4d7gkh34jafsvqm9",TRUE,1
+37,"Drug & alcohol cases for males 20–24, SA3 2008","cm0ad38ybz85ikh4k86dpdqmt",TRUE,1
+38,"Syphilis rate per 10,000 for males 15–17, LGA 2019","cm4alalqnb26okh5k61ykz56b",TRUE,1
+39,"Injury-related admissions, 0–24 years, SA3 2022","cm0owi8fyx50pkh34njgraq4q",TRUE,2
+40,"Female intentional injury admissions, ages 0–24, LGA 2013","cm0w5ok214d7okh342qwysx3g",TRUE,1
+41,"Give me a visualisation on Injury related admissions for ages 50–80 in SA10","",FALSE,1
+42,"Show self-harm attendance for infants in State year 2050","",FALSE,2
+43,"Hospital admissions for teenagers aged 25–30 in LGA 2030","",FALSE,2
+44,"Rate of chronic illness for adults 40–60 in SA4","",FALSE,1
+45,"Developmental risk for children 0–5 in SA50","",FALSE,2
+46,"ED presentation data for 30–35 year olds in LGA 2099","",FALSE,3
+47,"Mortality rates for newborns in SA100","",FALSE,1
+48,"Drug and alcohol effects on 25–30 year olds in SA3","",FALSE,2
+49,"Influenza hospitalisations for people aged 50+, State level","",FALSE,3
+50,"Cancer admissions for adults 60–80 in SA1","",FALSE,1
+51,"Show me the rate per 1000 of drug-only admissions for 15–19 year olds in SA4, 2010","cm1eijmhmn5n4kh34m3n2pls4",TRUE,3
+52,"Do you have the 3-year prior moving average of drug-only admissions for females aged 10–14 in SA3, 2011?","cm0adxpv22nj2kh4k8nu13iv1",TRUE,3
+53,"Rate of hospital admissions per 10,000 in WA for 15–19 year olds in SA4, 2022","cm7mwc0qk41cukh74888pheny",TRUE,3
+54,"Number of births to mothers aged 15-19 in SA4, 3-year prior moving average, for 2017","cm28e6xdm5e8skhaczi805t0i",TRUE,2
+55,"Musculoskeletal disease-related admissions for males aged 0–24 in SA2, 2010","cm0q6thg713mhkh34w6z3cdbc",TRUE,3
+56,"Disorders of ear and hearing related admissions for children aged 0–4 in SA3, 2006","cm0m3qj86nsj9kh34ah1xslqy",TRUE,2
+57,"Rate per 100,000 of male victims of sexual assault in SA4, 18–24 year olds, 2019","clock16wr303qkhs81cyg9gtb",TRUE,3
+58,"Show me the 5-year prior data on males aged 10–24 affected by drugs and/or alcohol in the State, 2010","cm0bn3w9prozykh4kcjsr9yig",TRUE,3
+59,"Data on females aged 15–19 affected by drugs and/or alcohol in SA3, 3-year prior moving average, 2019","cm1ehfwgsj37ikh34mqgqrhrr",TRUE,3
+60,"3-year prior moving average of mental health attendance for 20–24 year olds in LGA, 2020","cm0ag7jga8k9qkh4knq8u76uy",TRUE,3
+61,"Syphilis rate per 10,000 for 18–24 year olds in SA3, 2022","cm4al7c5eat6zkh5kzhs9g3ik",TRUE,3
+62,"Mortality - 4 year rolling sum for ages 20–24 in SA4, 2014","cm03hmo5alv95kh4k08tpga1k",TRUE,2
+63,"5-year prior moving average of mental health attendance for 20–24 year olds in SA2, 2013","cm1em60e8u98mkh34uhn4mi02",TRUE,3
+64,"Children in out of home care, males aged 0–4 in LGA, 2011","cm0diiitxoc30kh4k85gnzwpn",TRUE,2
+65,"Oral disease admissions for 0–4 year olds in LGA, 2014","clw61y3jl5yiekhhoznst8es2",TRUE,1
+66,"Mental health related admissions for males aged 15–24 in LGA, 2016","cm178durwzrvmkh34pvvldux0",TRUE,3
+67,"Mental health admissions (N) for 10–14 year olds in SA2, 2020","cm04s9iy06lwskh4k3ksr7w92",TRUE,2
+68,"Influenza hospitalisations for females aged 0–4 in LGA, 2011","cm0owbdxbwqrskh34kqkf28vo",TRUE,2
+69,"Care and protection orders (N) for females aged 0–4 in the State, 2022","cm0dfv0meiflgkh4k8imm3qgy",TRUE,3
+70,"Year 9 enrolment data in LGA, 2014 for 14 year olds","cm8zj0y10bepekh701q9eoyqk",TRUE,1
+71,"Children in out of home care, females aged 10–17 in SA3, 2009","cm0dfeu0ihk7okh4ktn64g471",TRUE,2
+72,"Northern European language enrolments for females aged 10–14 in LGA, 2011","cljicg0iy07hpme088wewbpd5",TRUE,1
+73,"Non-family threatening behaviour offences, ages 10–24, State-wide, 2006","cm0uam1kyd1cnkh34q5zc11xu",TRUE,3
+74,"Hospital admissions (N) for 20–24 year olds in LGA, WA only, 2011","cm7i8fqdw7jvukh3wzxrhrwm4",TRUE,3
+75,"Disability-related admissions for 0–24 year olds in the State, 2012","cm0ly0zvlj2s7kh34mnp0axvx",TRUE,2
+76,"Rate per 1,000 of females aged 10–24 affected by drugs only in SA3, 2009","cm04pco9e1w0skh4k41c1y35v",TRUE,3
+77,"Oral disease admissions for 0–4 year olds in SA2, 2009","clw61u7uy5911khholb1842hk",TRUE,1
+78,"Rate per 1,000 of 10–24 year-olds in 5-year age groups, females, State 2007","cm163z92wve3jkh34jk9lx3ex",TRUE,3
+79,"Number of children and young people, females aged 24 in LGA, 2011","cm3xzoydezhf1kh5s12rzwoo3",TRUE,2
+80,"Vaccine-preventable disease related admissions for 0–4 year olds in LGA, 2016","cm0uoe79eoxlskh34z0ifui59",TRUE,2
+81,"Number of males aged 10–14 affected by alcohol only in the State, 2008","cm1ecqlri69i3kh34wf6wbg10",TRUE,2
+82,"Total ED presentations for 15–19 year olds in LGA, 2014","cm1hbwx9fi9l4kh3492qxk477",TRUE,3
+83,"Number of people aged 20–24 affected by drugs only in the State, 2009","cm1eiaamsm71hkh34ugm1nqpj",TRUE,2
+84,"Females aged 15–19 affected by drugs only in SA3, 2015","cm1ei3aqxll1mkh34mzd2lhzk",TRUE,2
+85,"Cardiovascular-related admissions for 0–24 year olds in SA4, 2019","cm0aqhg7rmwzykh4kg4g792jw",TRUE,3
+86,"Community mental health service contacts, females aged 10–14 in LGA, 5-year prior, 2021","cm14k27s1r1rekh343blxgs9w",TRUE,3
+87,"Hospital admissions (N) for 20–24 year olds in WA, 2006","cm7ee6ktx2vrhkh3ws95g29bl",TRUE,2
+88,"3-year prior moving average of mental health attendance for females aged 20–24 in SA4, 2009","cm0afxk7j7yygkh4k8z0qnx34",TRUE,3
+89,"Rate per 1,000 of females aged 10–24 affected by alcohol only in SA4, 2016","cm04n7x3wqh1ekh4ka4zja7jf",TRUE,3
+90,"5-year prior moving average of males aged 20–24 affected by drugs only in SA4, 2019","cm0bndujet56ckh4k41bx3a0b",TRUE,3
+91,"Self-harm attendance for children aged 5–10 in SA10, 2075","",FALSE,2
+92,"Hospital admissions for males aged 35–45 in LGA 2080","",FALSE,3
+93,"Rate of cardiovascular disease for adults 50–70 in SA5","",FALSE,1
+94,"Developmental delays for females aged 0–6 in SA99","",FALSE,2
+95,"ED presentation statistics for 40–50 year olds in LGA 2095","",FALSE,3
+96,"Mortality rates for newborns in SA200","",FALSE,1
+97,"Alcohol-related admissions for males aged 20–25 in SA7","",FALSE,2
+98,"Influenza hospitalisations for all 60+ year olds, State level","",FALSE,3
+99,"Cancer admission rates for adults aged 70–90 in SA8","",FALSE,1
+100,"Mental health attendance for females aged 15–19 in SA25, 2085","",FALSE,2
+101,"Mortality rates for children aged 0–5 in SA2, 2018","",TRUE,1
+102,"Hospital admissions for males aged 10–14 in LGA, 2017","",TRUE,1
+103,"Self-harm attendance for 15–19 year olds, State 2015","",TRUE,1
+104,"Cancer admission rates for 0–24 year olds in SA4, 2016","",TRUE,1
+105,"ED presentation counts for children aged 5–9 in LGA, 2019","",TRUE,1
+106,"Diabetes-related hospitalisations for ages 10–24 in State 2018","",TRUE,1
+107,"Mortality - infant deaths in SA3, 2020","",TRUE,1
+108,"Hospital admissions for females aged 20–24 in LGA, 2017","",TRUE,1
+109,"Suicide rates for 15–24 year olds, State 2016","",TRUE,1
+110,"Number of children in out of home care, ages 0–4, LGA 2015","",TRUE,1
+111,"Cardiovascular disease admissions, ages 0–24, SA2 2018","",TRUE,1
+112,"Injury-related hospitalisations for males aged 10–14 in SA3, 2019","",TRUE,1
+113,"ED presentation rates for teenagers aged 15–19, LGA 2016","",TRUE,1
+114,"Mortality rates for newborns in SA4, 2017","",TRUE,1
+115,"Hospital admissions due to respiratory illness, ages 0–24, State 2018","",TRUE,1
+116,"Cancer admissions for females aged 0–24 in LGA, 2019","",TRUE,1
+117,"Self-harm attendance for males aged 10–14, SA2 2020","",TRUE,1
+118,"Self-harm attendance, 3-year moving average, males aged 15–19, SA3 2023","",TRUE,2
+119,"Hospital admissions for females 20–24 due to alcohol in LGA 2019","",TRUE,2
+120,"ED presentations for 10–14 year olds, SA2 2020","",TRUE,2
+121,"Developmental delays for children aged 4–6 in SA4, 2022","",TRUE,2
+122,"Diabetes-related hospital visits, males 15–19, State 2021","",TRUE,2
+123,"Drug and alcohol hospital admissions for females aged 18–24 in LGA 2018","",TRUE,2
+124,"Secondary school injuries, ages 12–17, SA3 2021","",TRUE,2
+125,"Mental health attendance rates, adolescents 16–19, SA2 2020","",TRUE,2
+126,"Unintentional injury admissions for females 10–14, LGA 2022","",TRUE,2
+127,"Self-harm presentations for males aged 10–14 in SA4 2019","",TRUE,2
+128,"Hospitalisation rates for drug-related incidents, ages 15–19, SA2 2021","",TRUE,2
+129,"ED visits due to alcohol and drugs for teenagers aged 17–19, LGA 2020","",TRUE,2
+130,"Cancer admission rates for children aged 0–5 in SA3, 2021","",TRUE,1
+131,"Number of hospital admissions for males aged 10–14, LGA 2020","",TRUE,1
+132,"Infant mortality rates in State, 2019","",TRUE,1
+133,"Hospital admissions for females aged 0–4 due to respiratory illness, SA2 2022","",TRUE,1
+134,"Rates of unintentional injuries in children aged 5–9, LGA 2018","",TRUE,1
+135,"Number of newborns admitted for neonatal care in SA4, 2021","",TRUE,1
+136,"Hospital admission rates for chronic illnesses in children aged 0–5, State 2020","",TRUE,1
+137,"Five-year average of mental health admissions for ages 15–24 in SA2, 2015","",TRUE,3
+138,"Trends in drug and alcohol hospitalisations for teenagers aged 15–19, LGA 2010–2015","",TRUE,3
+139,"Self-harm attendance rates for males and females aged 10–24 across State, 2018–2022","",TRUE,3
+140,"Hospital admissions for respiratory illnesses in children 0–14, State level, 2012–2016","",TRUE,3
+141,"Hospital admissions for kidney disease in adults aged 40–60, SA15, 2090","",FALSE,1
+142,"Rate of diabetes for teenagers aged 13–19 in SA20, 2088","",FALSE,1
+143,"Mortality statistics for adults aged 60–80 in LGA35, 2092","",FALSE,1
+144,"Developmental risk for children aged 2–5 in SA10, 2087","",FALSE,2
+145,"Self-harm attendance for adolescents aged 15–18 in LGA50, 2089","",FALSE,2
+146,"ED presentations for adults aged 30–40 with respiratory illness in SA5, 2091","",FALSE,3
+147,"Hospital admissions for influenza in people aged 50+, State level, 2085","",FALSE,3
+148,"Drug and alcohol related presentations for adults aged 25–35 in LGA12, 2086","",FALSE,3
+149,"Cancer admission rates for adults aged 60–80 in SA18, 2088","",FALSE,3
+150,"Mortality rates for infants aged 0–1 in SA30, 2089","",FALSE,3

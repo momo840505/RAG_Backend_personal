@@ -1,0 +1,28 @@
+﻿services:
+  backend:
+    image: python:3.11-slim
+    working_dir: /app
+    volumes:
+      - ./:/app
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      EMBEDDING_MODEL: text-embedding-3-small
+      LLM_MODEL: gpt-5-nano
+      PG_DB: vector_db
+      PG_USER: postgres
+      PG_PASSWORD: team_7
+      PG_HOST: pgvector-db
+      PG_PORT: "5432"
+      DJANGO_DEBUG: "1"
+      CORS_ALLOWED_ORIGINS: http://localhost:8501
+    depends_on:
+      - pgvector-db
+    command:
+      - bash
+      - -lc
+      - >
+        pip install --no-input --disable-pip-version-check -r requirements.txt &&
+        python manage.py migrate &&
+        python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"

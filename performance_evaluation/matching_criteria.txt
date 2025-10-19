@@ -1,0 +1,3 @@
+good_match	The model_rowtext contains a similar metric/indicator name and is close to what the query is asking, even if some details like age range, zone, or year are slightly off. Essentially, it’s reasonably relevant to the query.
+
+perfect_match	The model_rowtext matches almost everything in the query — correct metric name, age range, sex, zone, and year — but can have at most one minor discrepancy (e.g., age range off by a year, or small difference in wording).
